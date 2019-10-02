@@ -11,7 +11,8 @@ so that the application has access to the necessary header files.</p>
 
 <p>Elastic deformations are decomposed into <b>point impulses</b>, <b>pinches</b> and <b>scaling transformations</b>. The application allows you to add or remove multiple Kelvinlets to a mesh in any order, and play the resulting animations as a timeline. The user is able to control the playback speed of the animations and can use the slider bar to jump to any point in the timeline.</p>
 
-<p>For more information about the application's design and implementation, please check the PDF report in the repository.</p>
+<p>To see the application in action, please watch the <a href="https://github.com/IM56/Dynamic-Kelvinlets/Videos">demo videos</a>.
+  For more information about the application's design and implementation, please check out the <a href="https://github.com/IM56/Dynamic-Kelvinlets/blob/master/Technical%20Article%20-%20Dynamic%20Kelvinlets.pdf">accompanying report</a>.</p>
 
 <h2>Camera controls</h2>
 <p>The user can move the camera's line of sight by holding right-click and moving the mouse. Whilst right-click is held down, the user can also strafe left (A key), strafe right (D key) and zoom in (W key) and zoom out (S key).</p>
