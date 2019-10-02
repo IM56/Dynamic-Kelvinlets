@@ -1,5 +1,7 @@
 # Dynamic-Kelvinlets
-Simple app for creating procedural elastic animations, written in DirectX 11 and C++
+Application for creating procedural elastic animations, written in DirectX 11/HLSL and C++.
+The framework library is based on a debug-draw demo by Guilherme R. Lampert and was modified by myself and David Moore.
+The development and implementation of this application was my MSc final project.
 
 <h2>Getting started</h2>
 <p>To use this application, you can build the project from source. Please ensure that the Framework static library is built first 
