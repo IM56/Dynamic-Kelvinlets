@@ -71,6 +71,10 @@ StyleCopReport.xml
 *.ilk
 *.meta
 *.obj
+!C_Shape.obj
+!Cube.obj
+!LP_Sphere.obj
+!Sphere.obj
 *.iobj
 *.pch
 *.pdb
